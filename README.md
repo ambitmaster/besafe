@@ -1,6 +1,6 @@
 # besafe
 
-A new Flutter project.
+This is a Flutter project, a digital solution that matches the real needs of the COVID-19 outbreak.
 
 ## Getting Started
 
