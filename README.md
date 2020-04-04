@@ -2,6 +2,10 @@
 
 This is a Flutter project, a digital solution that matches the real needs of the COVID-19 outbreak.
 
+## How to use it
+
+Just download the files and lets run it on your phone or emulator.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
